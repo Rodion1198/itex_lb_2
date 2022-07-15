@@ -1,0 +1,45 @@
+[{
+  "nurseName": "ivanova",
+  "date": 1654472000,
+  "department": 1,
+  "shift": "first",
+  "ward": [
+    "WardFirst"
+  ]
+},
+{
+  "nurseName": "ivanova",
+  "date": 1672524000,
+  "department": 2,
+  "shift": "first",
+  "ward":[
+    "WardSecond",
+    "WardThird"
+  ]
+},{
+  "nurseName": "petrova",
+  "date": 1672524000,
+  "department": 2,
+  "shift": "third",
+  "ward": [
+    "WardFirst"
+  ]
+},{
+  "nurseName": "sidorova",
+  "date": 1616277600,
+  "department": 3,
+  "shift": "second",
+  "ward": [
+    "WardSecond",
+    "WardThird"
+  ]
+},{
+  "nurseName": "egorova",
+  "date": 1612044000,
+  "department": 4,
+  "shift": "first",
+  "ward": [
+    "WardFirst",
+    "WardSecond"
+  ]
+}]
